@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="firebase-analytics-10.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/ea9b7708a109b5c2267d112cf2fe18794ffa42ff/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/ea9b7708a109b5c2267d112cf2fe18794ffa42ff/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

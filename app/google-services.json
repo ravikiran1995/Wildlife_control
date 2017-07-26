@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "277736945594",
+    "firebase_url": "https://wildlife-7c2b6.firebaseio.com",
+    "project_id": "wildlife-7c2b6",
+    "storage_bucket": "wildlife-7c2b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277736945594:android:8f29c3c29a4c92a3",
+        "android_client_info": {
+          "package_name": "com.example.ravikiran.wildlife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277736945594-qagn4njob1mjagvkck9pm6i08p4d3mg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ravikiran.wildlife",
+            "certificate_hash": "b43790fd967be256e1a1ca1f6911c2278598dcac"
+          }
+        },
+        {
+          "client_id": "277736945594-gjuh7170b6c4mbtfhtt01nhdnj01gt0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzklwb-i7uv0iReJG0htIR1lN1_KQ5pgw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277736945594-gjuh7170b6c4mbtfhtt01nhdnj01gt0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

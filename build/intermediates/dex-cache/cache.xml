@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\RaviKiran\.android\build-cache\e0791adbefb2ba5a6c2f381fa4f14b14972498a6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="D:\android_projects\Wildlife\app\build\intermediates\pre-dexed\debug\classes_6b208ef9966e37061c33dd07cc55d189d809e441.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RaviKiran\.android\build-cache\7a8f69d72cc7f711149a00b5da363d8979b2b25f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\android_projects\Wildlife\app\build\intermediates\pre-dexed\debug\classes_ed3c3936b5525ac7e442a4ca0be0c69cc2546760.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_projects\Wildlife\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2f0d484f3b2ac68b95bf69f2c5f61311e9910b1c">
+        <dex dex="D:\android_projects\Wildlife\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_55731b0cdf688eb9e52cc3492b8a90ce8b22cd02\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RaviKiran\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\android_projects\Wildlife\app\build\intermediates\pre-dexed\debug\glide-3.7.0_1fd5c3d2f6c4764d93d80a3ae550fff0a3b28941.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RaviKiran\.android\build-cache\b79db02f8b0ac6d2e1f4129d9604b5a0a1136dd6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="D:\android_projects\Wildlife\app\build\intermediates\pre-dexed\debug\classes_57b590085644657f5c6f1638b3461b379c458524.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RaviKiran\.android\build-cache\9c057efe10d9d1fcb660c7948a0e777888fb7b86\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="D:\android_projects\Wildlife\app\build\intermediates\pre-dexed\debug\classes_f36dee6c15721ce48c6616ea95211ef477e7fc68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RaviKiran\.android\build-cache\ea9b7708a109b5c2267d112cf2fe18794ffa42ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="D:\android_projects\Wildlife\app\build\intermediates\pre-dexed\debug\classes_6760e3aed6bcc29ac280dc8a65f1273e927c540c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_projects\Wildlife\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\android_projects\Wildlife\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_690552fe56341e1895383fafdf9762e916b90f24\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RaviKiran\.android\build-cache\f350556c2eef030e9d3f36128618a43ce7a58fb9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="D:\android_projects\Wildlife\app\build\intermediates\pre-dexed\debug\classes_356c482389ad871e0d1e362af88e31c9c6ba7677.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RaviKiran\.android\build-cache\d588505da31ed2d7d6c658803990de6765c3e3ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\android_projects\Wildlife\app\build\intermediates\pre-dexed\debug\classes_72a2d1d5a5e337db787cb906857b885a723ee638.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RaviKiran\.android\build-cache\43de68df0468e7dc41aac1d639b8985ab7d70621\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="D:\android_projects\Wildlife\app\build\intermediates\pre-dexed\debug\classes_b43371a3af531b24bff40f5873b2aaa63e1744f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RaviKiran\.android\build-cache\497cb1438905fd6115f41f70d653c3c438030760\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="D:\android_projects\Wildlife\app\build\intermediates\pre-dexed\debug\classes_d4a96786dca34ae2ba1423aea7465c03478b5b53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RaviKiran\.android\build-cache\a8ba5abcebc818252b451627f70f6eb555c944a5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="D:\android_projects\Wildlife\app\build\intermediates\pre-dexed\debug\classes_6f48ebbb928bb3a0f8e096b59108086d07b94adc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RaviKiran\.android\build-cache\debaf9124e8444f25129ce5bb9784d7334c947f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="D:\android_projects\Wildlife\app\build\intermediates\pre-dexed\debug\classes_2fafe8ba2bbd264511b12dec986d2194c083c2bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RaviKiran\.android\build-cache\41add9001d715d9ddd8698db5dc4db0d2ace098e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="D:\android_projects\Wildlife\app\build\intermediates\pre-dexed\debug\classes_c93dda70f2978ca7c771f9351ce2dd6a61eff468.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RaviKiran\.android\build-cache\29942ab73819eb7e4cffe8d87a31f72e3089a2cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="D:\android_projects\Wildlife\app\build\intermediates\pre-dexed\debug\classes_b702a6948c7446b4b4bc4795718c1ef619a1db52.jar" />
+    </item>
+
+</items>
