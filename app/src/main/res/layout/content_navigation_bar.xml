@@ -17,6 +17,8 @@ android:id="@+id/nav_bar_content"
         android:layout_height="495dp"
         tools:layout_editor_absoluteX="8dp"
         tools:layout_editor_absoluteY="8dp">
+
+
         <include
             layout="@layout/activity_about_app"
             android:layout_width="match_parent"
