@@ -5,7 +5,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:adjustViewBounds="true"
     android:background="@drawable/wild_hand"
-    tools:context="com.example.ravikiran.wildlife.crime_add">
+    tools:context="com.example.ravikiran.wildlife.Add_crime">
 
 
     <RelativeLayout
