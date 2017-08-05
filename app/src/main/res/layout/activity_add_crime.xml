@@ -5,8 +5,12 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:adjustViewBounds="true"
     android:background="@drawable/wild_hand"
+    android:scrollbarAlwaysDrawVerticalTrack="true"
     tools:context="com.example.ravikiran.wildlife.Add_crime">
 
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
     <RelativeLayout
         android:layout_width="match_parent"
@@ -159,5 +163,8 @@
 
 
     </RelativeLayout>
+
+
+    </ScrollView>
 
 </FrameLayout>
